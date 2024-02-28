@@ -17,7 +17,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #400f00;
+  background-color: #1c1c1c;
   transition: opacity 0.75s, visibility 0.75s;
   z-index: 1001;
   will-change: opacity, visibility;
